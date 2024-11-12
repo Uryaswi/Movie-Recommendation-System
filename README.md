@@ -7,8 +7,8 @@ This project is a content-based movie recommendation system that uses cosine sim
 2. git 
 
 ## Libraries
-1.Pandas: For data manipulation.
-2.Scikit-Learn: For cosine similarity and NLP utilities.
-3.NLTK or SpaCy: For text preprocessing.
-4.Streamlit: For creating the interactive web application.
-5.seaborn: For data visuaization
+1. Pandas: For data manipulation.
+2. Scikit-Learn: For cosine similarity and NLP utilities.
+3. NLTK or SpaCy: For text preprocessing.
+4. Streamlit: For creating the interactive web application.
+5. Seaborn: For data visuaization
