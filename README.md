@@ -12,3 +12,9 @@ This project is a content-based movie recommendation system that uses cosine sim
 3. NLTK or SpaCy: For text preprocessing.
 4. Streamlit: For creating the interactive web application.
 5. Seaborn: For data visuaization
+
+## Preview 
+
+
+https://github.com/user-attachments/assets/30025809-6c25-4d96-a137-0228f82c9b20
+
